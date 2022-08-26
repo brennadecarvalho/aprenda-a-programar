@@ -11,13 +11,3 @@ function calcularImposto (produto) {
 }
 
 console.log(calcularImposto(produtoA));
-
-
-
-
-
-/*if(produtoA.internacional == true) {
-    console.log(produtoA.valor * 0.20 + produtoA.valor)
-} else {
-    console.log(produtoA.valor * 0.12 + produtoA.valor)
-}*/
